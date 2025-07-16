@@ -9,6 +9,7 @@
 - Added 'rotation' configuration
 - Simp\`lified 'xorg.conf'
 - Added ability to append to or replace default 'xorg.conf'
+- Change Keyboard Layout from us to de
 
 ## v0.9.9 - July 2025
 
